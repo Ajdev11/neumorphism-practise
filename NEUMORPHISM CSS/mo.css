@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:  grey;
+    padding: 20px;
+}
+.neumorphism{
+    width: 300px;
+    height: 450px;
+    background-color: #ffffff73;
+    box-shadow: 13px 13px 20px #dde1e7,
+                -13px -13px 20px #dde1e7;
+    border-radius: 20px;
+    
+}
+.neumorphism2{
+    width: 300px;
+    height: 450px;
+    background-color: #ffffff73;
+    box-shadow: 13px 13px 20px #dde1e7,
+                -13px -13px 20px #dde1e7;
+    border-radius: 20px;
+    margin: 40px;
+}
